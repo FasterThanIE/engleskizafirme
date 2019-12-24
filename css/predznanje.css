@@ -1,0 +1,25 @@
+.colorBlue
+{
+    color: #0078cc;
+}
+
+.colorRed
+{
+    color: #d50000;
+}
+
+.backgroundPredznanje
+{
+    background-color: rgb(220, 220, 220);
+    margin-top: 100px;
+}
+
+.colorGray
+{
+    color: #595959;
+}
+
+.predznanjeFont
+{
+    font-family: Corbel light;
+}
