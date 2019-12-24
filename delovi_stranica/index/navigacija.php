@@ -1,8 +1,8 @@
 
 
 <div class="fixed-top">
-            <img src="img/navigacija.png" alt="">
-            <nav class="navbar navbar-expand-lg col-lg-12 fixed-top">
+    <img src="img/navigacija.png" alt="">
+        <nav class="navbar navbar-expand-lg col-lg-12 fixed-top">
                 <a class="navbar-brand" href="index.php">
                     <img src="img/brod.png" class="logo ml-5" alt="">
                 </a>
