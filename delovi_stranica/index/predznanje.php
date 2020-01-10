@@ -1,5 +1,5 @@
 <div class="backgroundPredznanje predznanjeFont col-12 d-flex justify-content-center">
-    <div class="col-8 pt-5">
+    <div class="col-xl-11 col-xs-12 pt-5">
         <h1><span class="colorBlue">PREDZNANJE</span> <span class="colorRed">NIJE POTREBNO</span></h1>
 
         <p class="colorGray pb-5">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium

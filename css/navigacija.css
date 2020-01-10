@@ -1,5 +1,23 @@
 .logo
 {
-    width: 75px;
-    height: 75px;
+    width: 250px;
+    height: auto;
+}
+
+.navbar
+{
+    background-color: #343a40;
+}
+
+.navbar-toggler
+{
+    color: white;
+}
+
+@media only screen and (min-width: 0px) and (max-width: 640px)
+{
+    .logo
+    {
+        width: 150px;
+    }
 }
