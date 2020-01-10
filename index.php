@@ -13,11 +13,7 @@
         <link rel="stylesheet" type="text/css" href="css/iskustva.css" />
         <link rel="stylesheet" type="text/css" href="css/form.css" />
         <link rel="stylesheet" type="text/css" href="css/footer.css" />
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-
-
-
+        <link rel="stylesheet" type="text/css" href="css/font-awesome/css/all.min.css">
     <body>
 
         <?php require_once "delovi_stranica/index/navigacija.php"; ?>
@@ -28,6 +24,9 @@
 
         <script src="js/jquery-3.4.1.min.js"></script>
         <script src="js/bootstrap.min.js"></script>
+        <script>
+            document.querySelectorAll('a[href^="#"]').forEach(e=>{e.addEventListener("click",function(e){e.preventDefault(),document.querySelector(this.getAttribute("href")).scrollIntoView({behavior:"smooth"})})});
+        </script>
     </body>
 
 

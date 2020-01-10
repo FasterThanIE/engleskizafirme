@@ -2,7 +2,7 @@
     <div class="d-xs-block d-md-none d-xl-block  iskustvaBackground iskustvaFont text-center">
         <h1 class="mb-0 pt-5"><span class="iskustvaBlue">ISKUSTVA</span> POLAZNIKA</h1>
 
-        <div class="col-12 d-flex justify-content-center">
+        <div id="utisci-polaznika" class="col-12 d-flex justify-content-center">
 
             <div class="card-deck col-xs-12 col-md-11 py-5">
 

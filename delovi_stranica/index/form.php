@@ -26,24 +26,24 @@
             </div>
         </div>
 
-        <div class="col-xl-6 col-lg-12">
+        <div class="col-xl-6 col-lg-12" id="kontakt">
             <h1 class="pl-2"><span class="formH1">KONTAKTIRAJTE</span> NAS</h1>
             <form action="" method="POST">
 
                 <div class="form-group col-12">
-                    <input type="text" class="form-control form-control-lg rounded-0" name="" id="" placeholder="Ime i prezime.">
+                    <input type="text" class="form-control form-control-lg rounded-0"  placeholder="Ime i prezime.">
                 </div>
 
                 <div class="form-group col-12">
-                    <input type="text" class="form-control form-control-lg rounded-0" name="" id="" placeholder="Kontakt email.">
+                    <input type="text" class="form-control form-control-lg rounded-0"  placeholder="Kontakt email.">
                 </div>
 
                 <div class="form-group col-12">
-                    <textarea class="form-control form-control-lg rounded-0" id="" name="" rows="6" placeholder="Text poruke"></textarea>
+                    <textarea class="form-control form-control-lg rounded-0" name="" rows="6" placeholder="Text poruke"></textarea>
                 </div>
 
 
-                <button type="submit" class="btn btn-lg btnForm text-white float-right mr-3 rounded-0 px-4" id="">POŠALJI PORUKU</button>
+                <button type="submit" class="btn btn-lg btnForm text-white float-right mr-3 rounded-0 px-4">POŠALJI PORUKU</button>
             </form>
         </div>
     </div>
