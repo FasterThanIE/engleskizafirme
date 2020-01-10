@@ -8,6 +8,7 @@
         <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" >
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" type="text/css" href="css/style.css" />
+        <link rel="stylesheet" type="text/css" href="css/header.css" />
         <link rel="stylesheet" type="text/css" href="css/navigacija.css" />
         <link rel="stylesheet" type="text/css" href="css/predznanje.css" />
         <link rel="stylesheet" type="text/css" href="css/iskustva.css" />
@@ -15,7 +16,7 @@
         <link rel="stylesheet" type="text/css" href="css/footer.css" />
         <link rel="stylesheet" type="text/css" href="css/font-awesome/css/all.min.css">
     <body>
-
+        <?php require_once "delovi_stranica/index/header.php"; ?>
         <?php require_once "delovi_stranica/index/navigacija.php"; ?>
         <?php require_once "delovi_stranica/index/predznanje.php"; ?>
         <?php require_once "delovi_stranica/index/iskustva.php"; ?>
