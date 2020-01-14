@@ -15,7 +15,7 @@
                 <ul class="navbar-nav ml-auto">
 
                     <li class="nav-item mr-3">
-                        <a class="nav-link text-white" href="">O NAMA</a>
+                        <a class="nav-link text-white" href="#about-us">O NAMA</a>
                     </li>
 
                     <li class="nav-item mr-3">
