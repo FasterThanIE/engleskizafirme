@@ -9,7 +9,7 @@
             looking block of text (sentence, paragraph, page, etc.)<br>
             that doesn't distract from the layout. A practice not<br>
             without controversy, laying out pages with meaningless<br>
-                filler text can be ...</p>
+                filler text can be...</p>
 
              <div class="d-flex justify-content-center">
                   <button class="btn contact-btn">KONTAKTIRAJTE NAS</button>
