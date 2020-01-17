@@ -12,7 +12,7 @@
                 filler text can be...</p>
 
              <div class="d-flex justify-content-center">
-                  <button class="btn contact-btn">KONTAKTIRAJTE NAS</button>
+                  <a class="btn contact-btn" href="#kontakt">KONTAKTIRAJTE NAS</a>
              </div>
 
         </div>
