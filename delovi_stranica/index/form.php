@@ -39,7 +39,7 @@
                 </div>
 
                 <div class="form-group col-12">
-                    <textarea class="form-control form-control-lg rounded-0" name="" rows="6" placeholder="Text poruke"></textarea>
+                    <textarea class="form-control form-control-lg rounded-0" style="resize: none;" name="" rows="6" placeholder="Text poruke"></textarea>
                 </div>
 
 
