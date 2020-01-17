@@ -5,16 +5,8 @@
 
     <head>
         <meta charset="utf-8">
-        <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" >
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" type="text/css" href="css/style.css" />
-        <link rel="stylesheet" type="text/css" href="css/header.css" />
-        <link rel="stylesheet" type="text/css" href="css/navigacija.css" />
-        <link rel="stylesheet" type="text/css" href="css/predznanje.css" />
-        <link rel="stylesheet" type="text/css" href="css/iskustva.css" />
-        <link rel="stylesheet" type="text/css" href="css/form.css" />
-        <link rel="stylesheet" type="text/css" href="css/footer.css" />
-        <link rel="stylesheet" type="text/css" href="css/font-awesome/css/all.min.css">
+
     <body>
         <?php require_once "delovi_stranica/index/header.php"; ?>
         <?php require_once "delovi_stranica/index/navigacija.php"; ?>
@@ -28,6 +20,16 @@
         <script>
             document.querySelectorAll('a[href^="#"]').forEach(e=>{e.addEventListener("click",function(e){e.preventDefault(),document.querySelector(this.getAttribute("href")).scrollIntoView({behavior:"smooth"})})});
         </script>
+
+        <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" >
+        <link rel="stylesheet" type="text/css" href="css/style.css" />
+        <link rel="stylesheet" type="text/css" href="css/header.css" />
+        <link rel="stylesheet" type="text/css" href="css/navigacija.css" />
+        <link rel="stylesheet" type="text/css" href="css/predznanje.css" />
+        <link rel="stylesheet" type="text/css" href="css/iskustva.css" />
+        <link rel="stylesheet" type="text/css" href="css/form.css" />
+        <link rel="stylesheet" type="text/css" href="css/footer.css" />
+        <link rel="stylesheet" type="text/css" href="css/font-awesome/css/all.min.css">
     </body>
 
 
