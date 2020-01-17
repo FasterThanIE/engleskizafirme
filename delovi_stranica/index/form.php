@@ -43,7 +43,7 @@
                 </div>
 
 
-                <button type="submit" class="btn btn-lg btnForm text-white float-right mr-3 rounded-0 px-4">POŠALJI PORUKU</button>
+                <button type="submit" class="mb-3 btn btn-lg btnForm text-white float-right mr-3 rounded-0 px-4">POŠALJI PORUKU</button>
             </form>
         </div>
     </div>
