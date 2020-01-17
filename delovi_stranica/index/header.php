@@ -1,6 +1,6 @@
 
 <header class="d-flex justify-content-center" id="about-us">
-    <div class="text-field p-5 justify-content-center">
+    <div class="text-field p-lg-5 p-3 justify-content-center">
 
         <div class="opis border-black ">
 
