@@ -1,5 +1,5 @@
 
-    <div class="row fontForm formBackground p-5 m-0">
+    <div class="row fontForm formBackground p-lg-5 m-0">
 
         <div class="col-xl-6 col-lg-12">
 
@@ -27,7 +27,7 @@
         </div>
 
         <div class="col-xl-6 col-lg-12" id="kontakt">
-            <h1 class="pl-2"><span class="formH1">KONTAKTIRAJTE</span> NAS</h1>
+            <h1 class="pl-lg-2 mobileFontForContact"><span class="formH1">KONTAKTIRAJTE</span> NAS</h1>
             <form action="" method="POST">
 
                 <div class="form-group col-12">

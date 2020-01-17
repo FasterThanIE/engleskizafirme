@@ -29,5 +29,12 @@
     background-color: #a8240b;
 }
 
+@media only screen and (max-width: 640px)
+{
+    .mobileFontForContact {
+        font-size: 2rem;
+    }
+}
+
 
 
