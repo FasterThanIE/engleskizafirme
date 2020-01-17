@@ -80,6 +80,12 @@ header{
         font-size: 26px;
     }
 
+    .headerText
+    {
+        font-size: 0.8em;
+        line-height: 1.2;
+    }
+
 
     .contact-btn {
         font-size: 1.5rem;
